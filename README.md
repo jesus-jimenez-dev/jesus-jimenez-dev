@@ -8,7 +8,7 @@ Trabajo principalmente con **Node.js, Express, MySQL y React**. Me interesa comp
 
 ### Gestor SaaS de ventas de lotería
 
-[![CI del Gestor SaaS](https://github.com/YisusDev123/Gestor-SaaS-de-ventas-de-loteria/actions/workflows/ci.yml/badge.svg)](https://github.com/YisusDev123/Gestor-SaaS-de-ventas-de-loteria/actions/workflows/ci.yml)
+[![CI del Gestor SaaS](https://github.com/jesus-jimenez-dev/Gestor-SaaS-de-ventas-de-loteria/actions/workflows/ci.yml/badge.svg)](https://github.com/jesus-jimenez-dev/Gestor-SaaS-de-ventas-de-loteria/actions/workflows/ci.yml)
 
 SaaS multi-tenant para gestionar ventas, cajas, sorteos, resultados, reportes, usuarios y suscripciones.
 
@@ -21,11 +21,11 @@ Aspectos técnicos destacados:
 - frontend PWA construido con React;
 - pruebas automatizadas, migraciones y CI reproducible.
 
-[Ver repositorio](https://github.com/YisusDev123/Gestor-SaaS-de-ventas-de-loteria)
+[Ver repositorio](https://github.com/jesus-jimenez-dev/Gestor-SaaS-de-ventas-de-loteria)
 
 ### Plataforma transaccional de apuestas
 
-[![CI de la plataforma transaccional](https://github.com/YisusDev123/plataforma-transaccional-de-apuestas/actions/workflows/ci.yml/badge.svg)](https://github.com/YisusDev123/plataforma-transaccional-de-apuestas/actions/workflows/ci.yml)
+[![CI de la plataforma transaccional](https://github.com/jesus-jimenez-dev/plataforma-transaccional-de-apuestas/actions/workflows/ci.yml/badge.svg)](https://github.com/jesus-jimenez-dev/plataforma-transaccional-de-apuestas/actions/workflows/ci.yml)
 
 Plataforma full-stack para gestionar usuarios, KYC, billeteras, depósitos, retiros, sorteos, apuestas y pagos automáticos.
 
@@ -38,7 +38,7 @@ Aspectos técnicos destacados:
 - autenticación, autorización por roles y validación de entradas;
 - PWA con reglas conservadoras para operaciones financieras.
 
-[Ver repositorio](https://github.com/YisusDev123/plataforma-transaccional-de-apuestas)
+[Ver repositorio](https://github.com/jesus-jimenez-dev/plataforma-transaccional-de-apuestas)
 
 ## Stack principal
 
